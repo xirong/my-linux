@@ -11,7 +11,7 @@
 # Linux 日常技巧
 
 - [让进程在后台可靠运行的几种方法](https://www.ibm.com/developerworks/cn/linux/l-cn-nohup/)
-- [15个极好的Linux find命令示例](http://www.oschina.net/translate/15-practical-unix-linux-find-command-examples-part-2?print) 详细介绍如何根据文件的访问、修改、状态变化等来查找文件。
+- 15个极好的Linux find命令示例 [简介篇](http://www.oschina.net/translate/15-practical-linux-find-command-examples) 讲述find的实例及用法、[实用技能篇](http://www.oschina.net/translate/15-practical-unix-linux-find-command-examples-part-2) 详细介绍如何根据文件的访问、修改、状态变化等来查找文件。
 
 # shell 脚本
 
