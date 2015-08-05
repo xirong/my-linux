@@ -9,12 +9,16 @@
 - [Linux工具快速教程-分类介绍各种命令](http://linuxtools-rst.readthedocs.org/zh_CN/latest/index.html)
 
 # Linux 日常技巧
+
 - [让进程在后台可靠运行的几种方法](https://www.ibm.com/developerworks/cn/linux/l-cn-nohup/)
+- [15个极好的Linux find命令示例](http://www.oschina.net/translate/15-practical-unix-linux-find-command-examples-part-2?print) 详细介绍如何根据文件的访问、修改、状态变化等来查找文件。
 
 # shell 脚本
+
 - [Shell Scripting: What are some time-saving tips that every Linux user should know?](https://www.quora.com/Shell-Scripting/What-are-some-time-saving-tips-that-every-Linux-user-should-know) quora 上面的回答，很精彩。
 
 # bash 终端
+
 - [zsh - oh my zsh](http://ohmyz.sh/)
 
 
