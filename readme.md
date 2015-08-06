@@ -7,6 +7,7 @@
 
 - [每天一个linux命令系列教程](http://www.cnblogs.com/peida/archive/2012/12/05/2803591.html)
 - [Linux工具快速教程-分类介绍各种命令](http://linuxtools-rst.readthedocs.org/zh_CN/latest/index.html)
+- [最常用的Linux命令大全](http://codecloud.net/linux-commond-461.html) 包括查看系统信息、文本处理、文件搜索、磁盘处理等
 
 # Linux 日常技巧
 
