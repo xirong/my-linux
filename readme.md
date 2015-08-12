@@ -10,6 +10,8 @@
 	+ [对 Linux 新手非常有用的 20 个命令](http://www.oschina.net/translate/useful-linux-commands-for-newbies)
 	+ [对中级 Linux 用户非常有用的 20 个命令](http://www.oschina.net/translate/20-advanced-commands-for-middle-level-linux-users)
 	+ [对 Linux 专家非常有用的 20 个命令](http://www.oschina.net/translate/20-advanced-commands-for-linux-experts)
+- [Unix Toolbox - 中文版](http://cb.vu/unixtoolbox_zh_CN.xhtml) 从系统、进程、文件系统、网络等讲解常用的命令
+
 
 # Linux 实践
 
