@@ -13,6 +13,7 @@
 - [Unix Toolbox - 中文版](http://cb.vu/unixtoolbox_zh_CN.xhtml) 从系统、进程、文件系统、网络等讲解常用的命令
 
 
+
 # Linux 实践
 
 - [让进程在后台可靠运行的几种方法](https://www.ibm.com/developerworks/cn/linux/l-cn-nohup/)
@@ -24,6 +25,7 @@
 # Shell 脚本
 
 - [Shell Scripting: What are some time-saving tips that every Linux user should know?](https://www.quora.com/Shell-Scripting/What-are-some-time-saving-tips-that-every-Linux-user-should-know) quora 上面的回答，很精彩。
+- [快乐的 Linux 命令行 - 学习 Shell 脚本](http://billie66.github.io/TLCL/book/zh/) 介绍什么是 Shell 、配置、常见任务、工具以及 Shell 流程控制、if~else 循环、字符串数组等。
 
 # Bash 终端
 
