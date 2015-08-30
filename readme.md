@@ -31,4 +31,8 @@
 
 - [Zsh - Oh my zsh](http://ohmyz.sh/) xirong 写过一篇文章，专门介绍 Zsh 的配置等，可以阅读[提高命令效率之终极利器 Oh-my-zsh](http://www.ixirong.com/2015/04/27/strong-bash-use-oh-my-zsh/)
 
+# Linux 图书
+
+- [Linux系统架构与目录解析](http://book.douban.com/subject/3592797/)
+- [鸟哥的Linux私房菜.基础学习篇（第三版）](http://book.douban.com/subject/4889838/)
 
