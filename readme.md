@@ -18,6 +18,7 @@
 # Shell 脚本
 - [Shell Scripting: What are some time-saving tips that every Linux user should know?](https://www.quora.com/Shell-Scripting/What-are-some-time-saving-tips-that-every-Linux-user-should-know) quora 上面的回答，很精彩。
 - [快乐的 Linux 命令行 - 学习 Shell 脚本](http://billie66.github.io/TLCL/book/zh/) 介绍什么是 Shell 、配置、常见任务、工具以及 Shell 流程控制、if~else 循环、字符串数组等。
+- [linux 命令行](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md?f=tt&hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 # 效率工具
 - [Zsh - Oh my zsh](http://ohmyz.sh/) xirong 写过一篇文章，专门介绍 Zsh 的配置等，可以阅读[提高命令效率之终极利器 Oh-my-zsh](http://www.ixirong.com/2015/04/27/strong-bash-use-oh-my-zsh/)
