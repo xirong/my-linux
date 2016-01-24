@@ -1,4 +1,7 @@
 
+**2016-01-24 更新** ：整个 repo 内容迁移到「my-backend 后端学习资料」中，日后将在此进行汇总整理，还望关注的朋友们见谅！
+
+-----------
 # Linux 常用命令
 - [每天一个 Linux 命令系列教程](http://www.cnblogs.com/peida/archive/2012/12/05/2803591.html)
 - [Linux工具快速教程 - 分类介绍各种命令](http://linuxtools-rst.readthedocs.org/zh_CN/latest/index.html)
